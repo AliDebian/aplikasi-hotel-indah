@@ -1,0 +1,4 @@
+NIK|NAMA LENGKAP
+12345|Rafli kurniawan
+4545|surip
+4454|ali
